@@ -1,0 +1,16 @@
+C:\Users\Gary\source\repos\MITRE\Discovery\T1057-ProcessDiscovery\T1057-ProcessDiscovery\bin\Debug\net5.0\T1057-ProcessDiscovery.exe
+C:\Users\Gary\source\repos\MITRE\Discovery\T1057-ProcessDiscovery\T1057-ProcessDiscovery\bin\Debug\net5.0\T1057-ProcessDiscovery.deps.json
+C:\Users\Gary\source\repos\MITRE\Discovery\T1057-ProcessDiscovery\T1057-ProcessDiscovery\bin\Debug\net5.0\T1057-ProcessDiscovery.runtimeconfig.json
+C:\Users\Gary\source\repos\MITRE\Discovery\T1057-ProcessDiscovery\T1057-ProcessDiscovery\bin\Debug\net5.0\T1057-ProcessDiscovery.runtimeconfig.dev.json
+C:\Users\Gary\source\repos\MITRE\Discovery\T1057-ProcessDiscovery\T1057-ProcessDiscovery\bin\Debug\net5.0\T1057-ProcessDiscovery.dll
+C:\Users\Gary\source\repos\MITRE\Discovery\T1057-ProcessDiscovery\T1057-ProcessDiscovery\bin\Debug\net5.0\ref\T1057-ProcessDiscovery.dll
+C:\Users\Gary\source\repos\MITRE\Discovery\T1057-ProcessDiscovery\T1057-ProcessDiscovery\bin\Debug\net5.0\T1057-ProcessDiscovery.pdb
+C:\Users\Gary\source\repos\MITRE\Discovery\T1057-ProcessDiscovery\T1057-ProcessDiscovery\obj\Debug\net5.0\T1057-ProcessDiscovery.csprojAssemblyReference.cache
+C:\Users\Gary\source\repos\MITRE\Discovery\T1057-ProcessDiscovery\T1057-ProcessDiscovery\obj\Debug\net5.0\T1057-ProcessDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gary\source\repos\MITRE\Discovery\T1057-ProcessDiscovery\T1057-ProcessDiscovery\obj\Debug\net5.0\T1057-ProcessDiscovery.AssemblyInfoInputs.cache
+C:\Users\Gary\source\repos\MITRE\Discovery\T1057-ProcessDiscovery\T1057-ProcessDiscovery\obj\Debug\net5.0\T1057-ProcessDiscovery.AssemblyInfo.cs
+C:\Users\Gary\source\repos\MITRE\Discovery\T1057-ProcessDiscovery\T1057-ProcessDiscovery\obj\Debug\net5.0\T1057-ProcessDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\Gary\source\repos\MITRE\Discovery\T1057-ProcessDiscovery\T1057-ProcessDiscovery\obj\Debug\net5.0\T1057-ProcessDiscovery.dll
+C:\Users\Gary\source\repos\MITRE\Discovery\T1057-ProcessDiscovery\T1057-ProcessDiscovery\obj\Debug\net5.0\ref\T1057-ProcessDiscovery.dll
+C:\Users\Gary\source\repos\MITRE\Discovery\T1057-ProcessDiscovery\T1057-ProcessDiscovery\obj\Debug\net5.0\T1057-ProcessDiscovery.pdb
+C:\Users\Gary\source\repos\MITRE\Discovery\T1057-ProcessDiscovery\T1057-ProcessDiscovery\obj\Debug\net5.0\T1057-ProcessDiscovery.genruntimeconfig.cache
